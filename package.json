@@ -1,7 +1,7 @@
 {
 	"name": "makefolio-site",
 	"description": "Gatsby + Bulma Starter",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"author": "Aman Mittal <amandeepmittal@live.com>",
 	"dependencies": {
 		"bulma": "^0.7.2",
@@ -17,7 +17,8 @@
 		"node-sass": "^4.10.0",
 		"react": "^16.5.1",
 		"react-dom": "^16.5.1",
-		"react-helmet": "^5.2.0"
+		"react-helmet": "^5.2.0",
+		"react-icons": "^3.2.2"
 	},
 	"keywords": [
 		"gatsby"
