@@ -10,7 +10,10 @@ const Navbar = () => (
 		<nav className="navbar">
 			<div className="container">
 				<div className="navbar-brand">
-					<a className="navbar-item" href="https://github.com/amandeepmittal">
+					<a
+						className="navbar-item"
+						href="https://github.com/amandeepmittal/gatsby-bulma-quickstart"
+					>
 						<img src={gatsbyLogo} alt="Logo-1" />
 						<img src={bulmaLogo} alt="Logo-2" />
 					</a>
@@ -20,7 +23,7 @@ const Navbar = () => (
 						<span className="navbar-item">
 							<a
 								className="button is-danger is-inverted"
-								href="https://github.com/amandeepmittal"
+								href="https://github.com/amandeepmittal/gatsby-bulma-quickstart"
 							>
 								<span className="icon">
 									<FaGithub size="fa-2x" />

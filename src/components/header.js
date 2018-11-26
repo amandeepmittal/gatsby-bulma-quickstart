@@ -32,7 +32,7 @@ const Header = ({ siteTitle }) => (
 								A Bulma CSS + GatsbyJS Starter Kit{' '}
 								<a
 									className="button is-info is-inverted"
-									href="https://github.com/amandeepmittal"
+									href="https://github.com/amandeepmittal/gatsby-bulma-quickstart"
 								>
 									<span className="icon">
 										<FaGithub size="fa-2x" />
