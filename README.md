@@ -47,7 +47,7 @@ Go inside `gatsby-bulma-quickstart/` directory and run the following command:
 The site is now running at
 [http://localhost:8000](http://localhost:8000).
 
-Open _gatsby-porfolio_ directory in your code editor of choice and edit it. Save your changes and the browser will update in real time!
+Open `gatsby-bulma-quickstart/` directory in your code editor of choice and edit it. Save your changes and the browser will update them in real time!
 
 ### 4. Add your own Google Analytics Id
 
