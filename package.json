@@ -1,17 +1,19 @@
 {
-	"name": "makefolio-site",
-	"description": "Gatsby + Bulma Starter",
+	"name": "gatsby-bulma-quickstart",
+	"description": "A Project to bootstrap your next Gatsby + Bulma site.",
 	"version": "0.2.0",
 	"author": "Aman Mittal <amandeepmittal@live.com>",
 	"dependencies": {
 		"bulma": "^0.7.2",
 		"gatsby": "^2.0.19",
 		"gatsby-image": "^2.0.15",
+		"gatsby-plugin-google-analytics": "^2.0.7",
 		"gatsby-plugin-manifest": "^2.0.5",
 		"gatsby-plugin-offline": "^2.0.11",
 		"gatsby-plugin-react-helmet": "^3.0.0",
 		"gatsby-plugin-sass": "^2.0.4",
 		"gatsby-plugin-sharp": "^2.0.7",
+		"gatsby-plugin-sitemap": "^2.0.2",
 		"gatsby-source-filesystem": "^2.0.4",
 		"gatsby-transformer-sharp": "^2.1.4",
 		"node-sass": "^4.10.0",
@@ -21,7 +23,11 @@
 		"react-icons": "^3.2.2"
 	},
 	"keywords": [
-		"gatsby"
+		"gatsby",
+		"bulma",
+		"starter",
+		"kit",
+		"template"
 	],
 	"license": "MIT",
 	"scripts": {
