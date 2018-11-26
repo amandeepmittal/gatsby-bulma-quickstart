@@ -6,7 +6,7 @@
 
 ## Demo 💯
 
-- [Demo Link]()
+- [Demo Link](https://tender-raman-99e09b.netlify.com/)
 
 ## Features 🚀
 
@@ -19,28 +19,28 @@
 
 ## Languages and Frameworks ⚛️
 
+- Gatsby
 - Bulma
 - SASS
-- Gatsby
 - GraphQL
 
 ## How to use it? 👨‍💻
 
-Assuming that Gatsby and NPM are installed on your system.
+You need npm and Gatsby CLI installed on your development machine.
 
 ### 1. Clone the repository/Installation
 
 If you have Git installed on your system you can run the following command:
 
-> `git clone https://github.com/boxton90/gatsby-portfolio.git`
+`git clone https://github.com/boxton90/gatsby-portfolio.git`
 
 Otherwise you can directly download it clicking on download button on this repository.
 
 ### 2. Running in development mode
 
-Go inside _gatsby-porfolio_ directory and run the following command
+Go inside `gatsby-bulma-quickstart/` directory and run the following command:
 
-> `npm run dev`
+`npm run dev`
 
 ### 3. Open the source code and start editing!
 
