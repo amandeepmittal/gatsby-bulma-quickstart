@@ -1,6 +1,6 @@
 # Gatsby Bulma Quickstart
 
-> A Project to bootstrap your next Gatsby + Bulma site.
+> A Quick Way to bootstrap your next Gatsby + Bulma site.
 
 ![ss](https://i.imgur.com/Vz81GEl.png)
 
