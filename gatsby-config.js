@@ -15,7 +15,7 @@ module.exports = {
 		},
 		'gatsby-transformer-sharp',
 		'gatsby-plugin-sharp',
-		`gatsby-plugin-sass`,
+
 		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {
@@ -28,7 +28,8 @@ module.exports = {
 				icon: 'src/images/gatsby-icon.png',
 				orientation: 'portrait'
 			}
-		}
+		},
+		`gatsby-plugin-sass`
 		// this (optional) plugin enables Progressive Web App + Offline functionality
 		// To learn more, visit: https://gatsby.app/offline
 		// 'gatsby-plugin-offline',
