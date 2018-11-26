@@ -32,7 +32,7 @@ You need npm and Gatsby CLI installed on your development machine.
 
 If you have Git installed on your system you can run the following command:
 
-`git clone https://github.com/boxton90/gatsby-portfolio.git`
+`git clone https://github.com/amandeepmittal/gatsby-bulma-quickstart.git`
 
 Otherwise you can directly download it clicking on download button on this repository.
 
