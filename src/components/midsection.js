@@ -123,7 +123,8 @@ const Midsection = () => (
 									<p className="subtitle is-size-5">
 										This starter kit is target to developers who are looking
 										forward to use Bulma along with GatsbyJS. You can read more
-										in the <a href="#">documentation</a> on how to get started.
+										in the <a href="https://gatsbyjs.org">documentation</a> on
+										how to get started.
 									</p>
 								</div>
 							</div>
