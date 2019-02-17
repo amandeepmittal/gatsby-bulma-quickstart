@@ -1,15 +1,15 @@
 {
 	"name": "gatsby-bulma-quickstart",
 	"description": "A Project to bootstrap your next Gatsby + Bulma site.",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"author": "Aman Mittal <amandeepmittal@live.com>",
 	"dependencies": {
-		"bulma": "^0.7.2",
-		"gatsby": "^2.0.114",
+		"bulma": "^0.7.4",
+		"gatsby": "^2.1.4",
 		"gatsby-image": "^2.0.29",
-		"gatsby-plugin-google-analytics": "^2.0.13",
+		"gatsby-plugin-google-analytics": "^2.0.14",
 		"gatsby-plugin-manifest": "^2.0.17",
-		"gatsby-plugin-offline": "^2.0.22",
+		"gatsby-plugin-offline": "^2.0.23",
 		"gatsby-plugin-react-helmet": "^3.0.6",
 		"gatsby-plugin-sass": "^2.0.10",
 		"gatsby-plugin-sharp": "^2.0.20",
@@ -17,10 +17,10 @@
 		"gatsby-source-filesystem": "^2.0.20",
 		"gatsby-transformer-sharp": "^2.1.13",
 		"node-sass": "^4.11.0",
-		"react": "^16.7.0",
-		"react-dom": "^16.7.0",
+		"react": "^16.8.2",
+		"react-dom": "^16.8.2",
 		"react-helmet": "^5.2.0",
-		"react-icons": "^3.3.0"
+		"react-icons": "^3.4.0"
 	},
 	"keywords": [
 		"gatsby",
