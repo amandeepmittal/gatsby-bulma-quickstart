@@ -1,7 +1,7 @@
 {
 	"name": "gatsby-bulma-quickstart",
 	"description": "A Project to bootstrap your next Gatsby + Bulma site.",
-	"version": "1.5.0",
+	"version": "1.5.1",
 	"author": "Aman Mittal <amandeepmittal@live.com>",
 	"dependencies": {
 		"bulma": "^0.7.4",
