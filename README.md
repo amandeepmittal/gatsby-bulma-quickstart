@@ -40,7 +40,7 @@ Otherwise you can directly download it clicking on download button on this repos
 
 Go inside `gatsby-bulma-quickstart/` directory and run the following command:
 
-`npm run dev`
+`npm run develop`
 
 ### 3. Open the source code and start editing!
 
