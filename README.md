@@ -67,6 +67,6 @@ resolve: `gatsby-plugin-google-analytics`,
 
 If you find any possible improvement or suggestion related to code or UI/UX please contribute by submitting a PR.
 
-You can also back or support this project for me to keep it updated by [**Buying Me a Coffee**](https://www.paypal.me/amanhimself/2)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A611K61)
 
 **Happy Coding!** 🎉🎉
